@@ -1,0 +1,7 @@
+<template>
+  <div>
+    <nav-bar />
+    <nuxt />
+  </div>
+</template>
+<script lang="ts">
